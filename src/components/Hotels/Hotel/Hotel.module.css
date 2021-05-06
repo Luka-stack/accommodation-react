@@ -1,0 +1,15 @@
+.hotelContainer {
+    margin-bottom: 20px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 0;
+}
+
+.description {
+    color: grey;
+    margin-top: 10px;
+    font-size: 0.88rem;
+}

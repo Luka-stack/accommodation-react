@@ -1,0 +1,9 @@
+.hotelsContainer {
+    margin: 10px auto;
+    padding: 20px 0px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
